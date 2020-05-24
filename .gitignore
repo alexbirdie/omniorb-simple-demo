@@ -1,0 +1,2 @@
+#ignore pro.user files made by QT Creator
+*.pro.user
